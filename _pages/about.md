@@ -2,23 +2,22 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Facedrive</a>. Scarborough, Ontario.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>101 Consilium Place</p>
+    <p>Hamilton, Ontario</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-jjjjjjjjjjjjjjjjjjjjjjjWrite your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an accomplished leader with over 5 years of combined experience in engineering consulting,operations, research and board governance.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Over the years, I have developed a combination of technical expertise, management and communication skills, which has helped me to establish current relationships with clients, both internal and external. I am multilingual (6 international language and many more local languages) have experience in other areas of business which includes negotiation of leases and contracts, accounting, finance, taxation, and human resources departments. I have also served in leadership roles in research, scholarly and artistic work. I am serving as Vice-President of Graduate Student Association which houses 4000 Graduate Students under its roof. I also serve on several other boards which includes, Presidents Executive Committee, CGPS Faculty Council, CGPS Graduate and Postdoctoral Council, CGPS Awards Committee, CGPS Interdisciplinary Committee
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am from Nepal and I have done my Bachelor’s in Electrical and Electronic Engineering from Chittagong University of Engineering and Technology, Bangladesh and my Master’s in Biomedical Engineering from University of Ulsan, South Korea. I am currently pursuing my PhD in Electrical Engineering at University of Saskatchewan (anticipated December, 2019).
