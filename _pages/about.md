@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Mohammad Wajih Alam
 permalink: /
 description: <a href="Facedrive.com">Facedrive</a>. Scarborough, Ontario.
 
