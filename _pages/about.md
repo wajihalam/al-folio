@@ -2,11 +2,11 @@
 layout: about
 title: Mohammad Wajih Alam
 permalink: /
-description: <a href="Facedrive.com">Facedrive</a>. Scarborough, Ontario.
+description: Embedded Software Developer | R&D Engineer #<a href="Facedrive.com">Facedrive</a>. Scarborough, Ontario.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_Wajih.jpg
   address: > # <p>101 Consilium Place</p> # <p>Hamilton, Ontario</p>
 
 news: true  # includes a list of news items
