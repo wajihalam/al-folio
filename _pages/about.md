@@ -7,9 +7,7 @@ description: <a href="Facedrive.com">Facedrive</a>. Scarborough, Ontario.
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>101 Consilium Place</p>
-    <p>Hamilton, Ontario</p>
+  address: > # <p>101 Consilium Place</p> # <p>Hamilton, Ontario</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
