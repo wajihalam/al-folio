@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Facedrive</a>. Scarborough, Ontario.
+description: <a href="Facedrive.com">Facedrive</a>. Scarborough, Ontario.
 
 profile:
   align: right
